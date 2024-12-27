@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Toyota Blue Car",
+        "type": "Hybrid",
+        "price": "12502562",
+        "image": "https:\/\/images.pexels.com\/photos\/170811\/pexels-photo-170811.jpeg?cs=srgb&amp;dl=pexels-mikebirdy-170811.jpg"
+    },
+    {
+        "name": "Toyota X corrola",
+        "type": "X-corolla",
+        "price": "150000",
+        "image": "https:\/\/www.mbusa.com\/content\/dam\/mb-nafta\/us\/myco\/my24\/amg-gt-class\/2-door\/all-vehicles\/2024-AMG-GT55-COUPE-AVP-DR.png"
+    },
+    {
+        "name": "You can check for edit",
+        "type": "fdhf",
+        "price": "150000",
+        "image": "https:\/\/www.motortrend.com\/files\/6740cdd5dc8b4600082c7206\/001-2025-bmw-i4-edrive40-lead.jpg?w=768&amp;width=768&amp;q=75&amp;format=webp"
+    }
+]
